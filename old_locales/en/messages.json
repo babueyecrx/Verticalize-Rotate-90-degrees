@@ -1,0 +1,32 @@
+{
+  "extName": {
+    "message": "verticalize Rotate90"
+  },
+  "extDescription": {
+    "message": "豎排,縱排,旋轉90度，竹簡，古文，漢語，文言文，亞洲語言，排版，版面，印刷，typography, bamboo, verticalize page, rotate webpage 90 degrees, asian , hebrew"
+  },
+  "extShortName": {
+    "message": "bamboo sheet"
+  },
+  "verticalizeWholePageBtn": {
+    "message": "Click to Verticalize（Rotate90）"
+  },
+  "horizWholePageBtn": {
+    "message": "Restore Horizontal"
+  },
+  "customizeFormat": {
+    "message": "Customize"
+  },
+  "labelverticalHeight": {
+    "message": "Chars Number for each column(e.g. 24)"
+  },
+  "emLabel4verticalHeight": {
+    "message": ""
+  },
+  "labelcolSpace": {
+    "message": "scale Column Space(e.g. 200[%])"
+  },
+  "labelfontSize":{
+    "message": "scale Font Size(e.g. 150[%])"
+  }
+}

@@ -1,0 +1,41 @@
+    body {
+            width: 200px;
+            overflow-x: hidden;
+            background-color: #EEF3F0;
+            font-family: "Microsoft YaHei";
+            font-size: 12px;
+            padding: 10px;
+        }
+        
+        hr {
+            margin: 20px 0 10px 0;
+        }
+        
+        #pctLabel4colSpace，#pctLabel4fontSize {
+            color: #ff0000;
+            font-weight: bold;
+        }
+        
+        a {
+            color: #22C3AA;
+            text-decoration: underline;
+        }
+        
+        a.reflink {
+            color: grey;
+            text-decoration: none;
+        }
+        
+        .close-image {
+            display: block;
+            float: right;
+            position: relative;
+            top: 2px;
+            right: 2px;
+            height: 20px;
+        }
+        
+        i {
+            color: green;
+        }
+    }

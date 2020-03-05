@@ -1,0 +1,32 @@
+{
+  "extName": {
+    "message": "豎排旋轉90度網頁竹簡"
+  },
+  "extDescription": {
+    "message": "豎排,縱排,旋轉90度，竹簡，古文，漢語，文言文，亞洲語言，排版，版面，印刷，typography, bamboo sheet, verticalize page, rotate webpage 90 degrees, asian reading"
+  },
+  "extShortName": {
+    "message": "verticalize竹簡"
+  },
+  "verticalizeWholePageBtn": {
+    "message": "豎排（旋轉90度）"
+  },
+  "horizWholePageBtn": {
+    "message": "恢復橫排"
+  },
+  "customizeFormat": {
+    "message": "[自定義格式]"
+  },
+  "labelverticalHeight": {
+    "message": "每列字數(例24)"
+  },
+  "emLabel4verticalHeight": {
+    "message": "個字"
+  },
+  "labelcolSpace": {
+    "message": "相鄰列間隔(例200[%])"
+  },
+  "labelfontSize":{
+    "message": "字號大小(例150[%])"
+  }
+}

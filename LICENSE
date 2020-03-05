@@ -1,0 +1,19 @@
+
+
+The algorithm I used to verticalize webpage in this 
+chrome extension comes from
+https://github.com/cmonos/TAKETORI-JS
+
+And the algorithm I used to remember last previewed position
+cames from 
+https://github.com/gilmoreorless/jquery-nearest
+https://github.com/Arwid/jQuery.scrollIntoView
+
+
+Here I hold the same kind of Licenses as all the libs/plugins I 
+used in this program,
+including those I did not mention,
+which should still combines to be "The MIT License (MIT)" up to now.
+
+Sep 22,2015
+

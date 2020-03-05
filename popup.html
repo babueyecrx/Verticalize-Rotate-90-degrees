@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang='zh-TW'>
+
+<head>
+  <meta charset="UTF-8">
+  <link href="popup.css" rel="stylesheet" type="text/css" />
+
+  <script type="text/javascript" src="jquery/jquery-1.11.3.min.js"></script>
+  <script type="text/javascript" src="popup.js"></script>
+</head>
+
+<body>
+  <div>
+    <a href="#" id="verticalizeWholePageBtn">豎排[默認格式]</a>
+
+    <br/><br/>
+
+    <a href="#" id="horizWholePageBtn">恢復橫排</a>
+  </div>
+  <hr />
+  <p id="customizeFormat">[自定義格式]</p>
+  <p>
+    <label for="verticalHeight" id="labelverticalHeight"><span>每列字數(e.g. 24)</span></label>
+    <input type="text" id="verticalHeight"><span id='emLabel4verticalHeight'>個字</span>
+    </input>
+  </p>
+  <hr />
+  <p>
+    <label for="colSpace" id="labelcolSpace"><span>相鄰列的間隔[百分比](e.g. 200)</span></label>
+    <input type="text" id="colSpace"><span id='pctLabel4colSpace'>%</span>
+    </input>
+  </p>
+
+  <p>
+    <label for="fontSize" id="labelfontSize"><span>字號大小[百分比](e.g. 150)</span></label>
+    <input type="text" id="fontSize"><span id='pctLabel4fontSize'>%</span>
+    </input>
+  </p>
+
+  <hr />
+  <p>提示Tips: </p>
+  <p><span>1.&nbsp;&larr;Left Page左移一頁 </span> </p>
+  <p><span>2.&nbsp;&rarr;Right Page右移一頁 </span> </p>
+  <p><span>3.&nbsp;&nbsp;Faster Move with 2 Fingers觸摸板兩指頭同時橫向移動，快速滾頁</span> </p>
+  <p><span>4.&nbsp;&nbsp;Verticalize Local Text翻轉本地文本</span></p>
+  <p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;瀏覽器地址欄Open chrome://extensions/ </p>
+  <p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;勾選Check 'Allow access to file URLs'</p>
+  <p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;瀏覽器菜單 File->Open File </p>
+  <hr /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a class="btn btn-primary" href="https://www.icrc.org/"  target="_blank">ICRC</a>
+
+
+</body>
+
+</html>
